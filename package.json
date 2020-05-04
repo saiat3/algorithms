@@ -1,0 +1,19 @@
+{
+  "name": "algorithms",
+  "description": "Coding interview algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiat3/algorithms.git"
+  },
+  "author": "Saiat Kalbiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saiat3/algorithms/issues"
+  },
+  "homepage": "https://github.com/saiat3/algorithms#readme"
+}
