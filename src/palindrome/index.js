@@ -1,8 +1,8 @@
 /**
- * reverse('aabaa') === true
- * reverse('are') === false
- * reverse('major') === false
- * reverse('atta') === true
+ * palindrome('aabaa') === true
+ * palindrome('are') === false
+ * palindrome('major') === false
+ * palindrome('atta') === true
  */
 
 const solution_1 = require('./solution_1');

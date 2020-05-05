@@ -1,6 +1,6 @@
 /**
- * reverse('aaabbcccc') === 'c'
- * reverse('atta') === 't'
+ * max_char('aaabbcccc') === 'c'
+ * max_char('atta') === 't'
  */
 
 const solution_1 = require('./solution_1');
