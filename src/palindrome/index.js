@@ -1,4 +1,8 @@
 /**
+ * Problem:
+ * Palindrome - a word, phrase, or sequence that reads the same backwards as forwards, e.g. madam or nurses run.
+ * Return boolean value whether the give string is palindrome or not
+ *
  * palindrome('aabaa') === true
  * palindrome('are') === false
  * palindrome('major') === false

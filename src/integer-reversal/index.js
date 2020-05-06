@@ -1,3 +1,8 @@
+/**
+ * Problem:
+ * Given an integer, return its reverse
+ */
+
 const integerReversal = require('./solution_1');
 
 console.log(integerReversal(15) === 51);

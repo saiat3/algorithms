@@ -1,4 +1,7 @@
 /**
+ * Problem:
+ * Given an string, return a character with maximum occurrence
+ *
  * max_char('aaabbcccc') === 'c'
  * max_char('atta') === 't'
  */

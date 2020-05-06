@@ -1,4 +1,7 @@
 /**
+ * Problem:
+ * Given a string, return its reverse value
+ *
  * reverse('test') === 'tset'
  * reverse('hello') === 'olleh'
  */
