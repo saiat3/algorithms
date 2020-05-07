@@ -1,6 +1,6 @@
 /**
  * Problem:
- * Given positive integer N, lot a step shape with N levels using character '#'
+ * Given positive integer N, output a step shape with N levels using character '#'
  *
  * steps(2)
  * #
