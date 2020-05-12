@@ -18,5 +18,5 @@ Examples and solutions provided are written using Javascript (Node.JS)
 - steps-two-sided
 - vowels
 
-#### Problems
+#### Data Structures
 - Queue
