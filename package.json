@@ -1,6 +1,6 @@
 {
   "name": "algorithms",
-  "description": "Coding interview algorithms",
+  "description": "Coding interview prep kit",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
