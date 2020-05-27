@@ -12,6 +12,7 @@ Examples and solutions provided are written using Javascript (Node.JS)
 - integer-reversal
 - max-char
 - palindrome
+- queue-from-stack
 - reverse-string
 - spiral-matrix
 - steps
