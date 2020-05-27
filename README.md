@@ -22,3 +22,4 @@ Examples and solutions provided are written using Javascript (Node.JS)
 #### Data Structures
 - Queue
 - Stack
+- Linked List
