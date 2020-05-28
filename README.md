@@ -10,6 +10,7 @@ Examples and solutions provided are written using Javascript (Node.JS)
 - fibonacci
 - fizzbuzz
 - integer-reversal
+- linked-list-circular
 - linked-list-midpoint
 - max-char
 - palindrome
