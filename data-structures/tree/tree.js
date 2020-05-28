@@ -13,5 +13,28 @@ class Node {
   }
 }
 
+class Tree {
+  constructor() {
+    this.root = null;
+  }
 
-module.exports = {Node};
+  traverseBreadthFirst(fn) {
+    const array = [this.root];
+    while (array.length > 0) {
+      const node = array.shift();
+      array.push(...node.children);
+      fn(node);
+    }
+  }
+
+  traverseDepthFirst(fn) {
+    const array = [this.root];
+    while (array.length > 0) {
+      const node = array.shift();
+      array.unshift(...node.children);
+      fn(node);
+    }
+  }
+}
+
+module.exports = {Node, Tree};

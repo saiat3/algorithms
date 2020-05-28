@@ -25,3 +25,4 @@ Examples and solutions provided are written using Javascript (Node.JS)
 - Queue
 - Stack
 - Linked List
+- Tree
